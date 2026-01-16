@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Test Automation Fundamentals**
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/minushika-kapuwaththa
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/minushika-kapuwaththa-1a2327268/" target="blank"> Minushika Kapuwaththa Linkedin </a>
 
 - 📫 How to reach me **minushikakapuwaththa@gmail.com**
 
