@@ -11,7 +11,7 @@
 
 # 🧑🏻‍💻 **About Me**
 
-- 👩‍💻 Former QA Engineer Intern **QA Engineer Intern @ iClick Online Techonology LTD**
+- 👩‍💻 Former QA Engineer Intern @ iClick Online Techonology LTD
 
 - 🎓 BSc (Hons) in Information Technology & Management — University of Moratuwa
 
