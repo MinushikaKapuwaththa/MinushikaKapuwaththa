@@ -11,7 +11,7 @@
 
 # 🧑🏻‍💻 **About Me**
 
-- 👩‍💻 I’m a former **trainee software engineer @ CEB IT Department**
+- 👩‍💻 I’m a former **QA Engineer Intern @ iClick Online Techonology LTD**
 
 - 🎓 Reading for BSc (Hons) in Information Technology & Management at Faculty of Information Technolgy, University of Moratuwa.
 
