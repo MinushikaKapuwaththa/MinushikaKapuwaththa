@@ -11,15 +11,15 @@
 
 # 🧑🏻‍💻 **About Me**
 
-- 👩‍💻 I’m a former **QA Engineer Intern @ iClick Online Techonology LTD**
+- 👩‍💻 Former QA Engineer Intern **QA Engineer Intern @ iClick Online Techonology LTD**
 
-- 🎓 Reading for BSc (Hons) in Information Technology & Management at Faculty of Information Technolgy, University of Moratuwa.
+- 🎓 BSc (Hons) in Information Technology & Management — University of Moratuwa
 
-- 👯 I’m looking to collaborate on **improving software quality through better test coverage and automation.**
+- 👯 Interested in software quality, testing & automation
 
 - 🌱 I’m currently learning **Test Automation Fundamentals**
 
-- 📝 I write articles on [https://medium.com/@minushikaka](https://medium.com/@minushikakapuwaththa)
+- 🔗 LinkedIn: https://www.linkedin.com/in/minushika-kapuwaththa
 
 - 📫 How to reach me **minushikakapuwaththa@gmail.com**
 
